@@ -8,11 +8,7 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-<br/>
-
-<a href="https://github.com/Cassie818">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cassie818&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassie818&theme=buefy&layout=compact" />
-</a>
-
-<br/>
+## My GitHub Stats(Only Public Contributions 😑) -
+  
+  ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=Cassie818&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+</br>
