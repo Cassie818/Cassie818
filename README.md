@@ -1,3 +1,6 @@
+Welcome! You are the <img src="https://profile-counter.glitch.me/Cassie818/count.svg" /> visitor! 
+
+
 ```
 ▬▬▬▬.◙.▬▬▬▬
   ▂▄▄▓▄▄▂                                                        ╫►►        ▁▁ ▓
