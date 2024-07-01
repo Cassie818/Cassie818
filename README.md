@@ -23,5 +23,8 @@
 
 - 👋 Hi there, I'm Ruyi Chen, a second-year PhD student at UQ <br>
 - :rocket: Currently working on studying protein evolution with large language models <br>
+- 🔬 I’m particularly interested in the application of machine learning and artificial intelligence in biological data analysis
+
+Feel free to connect with me if you're interested in protein evolution, computational biology, or machine learning!
   
 
