@@ -9,7 +9,7 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="80%" alt="Profile Season Animate" />
+<img src="./profile-3d-contrib/profile-south-season.svg" width="60%" alt="Profile Season Animate" />
 
 - 👋 Hi there, I'm Ruyi Chen, a second-year PhD student at UQ <br>
 - 🧬 I explore protein evolution through large language models <br>
